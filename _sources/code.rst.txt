@@ -1,0 +1,5 @@
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw_sphinx_wright_brian
+   :members:
+   :undoc-members:
